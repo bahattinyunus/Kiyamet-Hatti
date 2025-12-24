@@ -1,0 +1,4 @@
+bunker_logs/
+*.pyc
+__pycache__/
+.env
